@@ -17,6 +17,7 @@ git remote add origin https://github.com/chalermporn/git-command.git
 git push -u origin master
 ```
 
+## How do I delete a Git branch both locally and remotely?
 
 To remove a local branch from your machine:
 
